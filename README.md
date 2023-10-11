@@ -1,5 +1,3 @@
-# Github-Actividad4
-
 # Lisandro Lopez
 
 hola buenos dias mi nobre es Lisandro Lopez soy un estudiante del colegio C.E.S.D (Centro Educativo santo Domingo) siendo la especialidad del colegio la informatica.
