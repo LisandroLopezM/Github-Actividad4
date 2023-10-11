@@ -8,9 +8,9 @@ En el colegio emos estado estudiando Html - Css - JavaScript - Python - PHP - SQ
 
 Sinseramente me gusta estudiar y aprender mas cosas sobre python.
 
--👔 Ahora estamos probando la App de npx usando node.js y viendo apis.
+- 👔 Ahora estamos probando la App de npx usando node.js y viendo apis.
 
--👓 Me gusta entrenas y pasar tiempo con amigos.
+- 👓 Me gusta entrenas y pasar tiempo con amigos.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisandrolopezm&show_icons=true&theme=synthwave)
